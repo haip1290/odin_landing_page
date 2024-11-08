@@ -188,6 +188,10 @@ padding-bottom: 16px;
     padding: 48px 128px;
 }
 
+.call-to-action .header {
+    padding-bottom: 16px;
+}
+
 /* Footer */
 footer {
     justify-content: center;
